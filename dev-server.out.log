@@ -18,3 +18,6 @@
  ✓ Compiled /login in 1284ms (2526 modules)
  GET /login 200 in 1575ms
  GET / 200 in 56ms
+ ✓ Compiled in 1006ms (1957 modules)
+ ✓ Compiled in 1053ms (1957 modules)
+ ✓ Compiled in 462ms (1957 modules)
