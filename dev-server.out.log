@@ -1,0 +1,20 @@
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+ ✓ Starting...
+ ✓ Ready in 3s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.4s (1402 modules)
+ GET / 200 in 6201ms
+ GET / 200 in 171ms
+ GET / 200 in 112ms
+ ○ Compiling /dashboard/[brand] ...
+ ✓ Compiled /dashboard/[brand] in 4s (2510 modules)
+ GET / 200 in 1445ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 1284ms (2526 modules)
+ GET /login 200 in 1575ms
+ GET / 200 in 56ms
